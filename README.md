@@ -18,6 +18,8 @@ An Enthusiast Developer from laos.<br>
 
 # Twrp Tree
 
+[SM-A037xx](https://github.com/Paksan11/twrp_device_samsung_a03s)
+
 [SM-A107xx](https://github.com/topser9/twrp_device_samsung_a10s)
 
 [SM-A202xx](https://github.com/topser9/twrp_device_samsung_a20e)
